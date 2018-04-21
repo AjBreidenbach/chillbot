@@ -1,0 +1,15 @@
+{
+  "name": "chillbot",
+  "version": "0.1.0",
+  "description": "bot for chill & chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aj_breidenbach",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.1",
+    "request": "^2.83.0"
+  }
+}
